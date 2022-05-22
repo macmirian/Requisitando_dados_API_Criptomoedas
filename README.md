@@ -1,0 +1,1 @@
+# Requisitando_dados_API_Criptomoedas
